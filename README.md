@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Milu Jiji
+🎓 MCA Scholar @ Amal Jyothi College of Engineering  
+💻 Passionate about coding, data analytics, and creative design  
+🚀 Currently working on: Power Grid Optimization using Prim’s Algorithm  
+🎨 Founder of Millia Design | Content Creator  
 
-<!--
-**milu702/Milu702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 My Interests
+- Software Development  
+- Web Design & UI/UX  
+- Data Analytics  
+- AI & Automation  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+HTML | CSS | JavaScript | PHP | Python | MySQL | VB | Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+[💼 LinkedIn](https://www.linkedin.com/in/milu-jiji)    
+📧 milujiji702.com 
+
+---
+
+⭐ *“Turning ideas into code and creativity.”*  

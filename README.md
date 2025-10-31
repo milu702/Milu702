@@ -14,7 +14,7 @@
 HTML | CSS | JavaScript | PHP | Python | MySQL | VB | Java  
 
 ## 📫 Connect with Me
-[💼 LinkedIn](https://www.linkedin.com/in/milu-jiji)    
+[💼 LinkedIn](https://www.linkedin.com/in/milu-jiji-9a541727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 📧 milujiji702.com 
 
 ---
